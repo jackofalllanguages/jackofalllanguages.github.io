@@ -1,0 +1,24 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+<p>Home Page banner Photo "<a href="https://www.flickr.com/photos/139654283@N04/26044679455/in/photolist-9CYZzY-ocJWnn-nVxoXA-r8RD17-a5KbwQ-Hitqjm-JeAefk-J81CFZ-JbApG1-JeAogr-J5Gsru-HiE5Lk-JbAuqu-HiEj1M-JeAp36-HiDXTT-JbAn3U-JeAEzD-Hiu4CE-HiDNDa-HiDKF6-JbzLuW-HiDUsp-J81PXM-HP1WK1-J81Jzx-HiDEYR-J81KDB-J81wSe-HP1Veq-HiDwH2-JezYPX-Hitp5C-EL3cyU-FDbRT9-FzBDEa-EL3deb-FDbSAb-FxiyN5-FFtMPv-FgnmFq-JbAik3-Hiu1Do-J5GusU-HitnJG-HiDy5R-LGNLfp-LzQw1B-pR9y4c-5sfZj8">KL Streets</a>" <a href="https://www.flickr.com/photos/139654283@N04/">Marcin Pleluzek</a> - <a href="https://creativecommons.org/licenses/by/2.0/">CC by 2.0</a></p>
+</div>
