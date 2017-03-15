@@ -2,7 +2,6 @@
 layout: single
 author_profile: false
 excerpt: What is a language made from. It's not as much as you might except.
-categories: learningtheory
 ---
 
 To learn a language, we need to know what a language is. Knowing this helps us know what to study and in what order.
