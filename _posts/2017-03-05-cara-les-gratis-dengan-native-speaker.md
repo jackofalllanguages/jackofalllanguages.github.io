@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: What is a language made from. It's not as much as you might except.
+excerpt: Anda bisa dapat les dengan seorang native speaker secara gratis!
 categories: bahasa
 ---
 
