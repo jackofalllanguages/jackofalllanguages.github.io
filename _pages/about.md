@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 permalink: /about/
 header:
-  image: assets/italkiphoto.jpg
+  image: /assets/italkiphoto.jpg
 ---
 
 My name is Fletcher Hardison. I’m a linguist and English teacher. A father of two girls and a husband. I’m passionate about learning languages and helping others do it too. I’m convinced that most people have troubling learning languages because no one ever taught them how. I have an M.A. in Linguistics and have been teaching English overseas for ~3 years at the university level. I study languages when I’m not teaching, doing research, or spending time with my family.
