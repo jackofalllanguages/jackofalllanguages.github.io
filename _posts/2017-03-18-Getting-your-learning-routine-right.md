@@ -45,7 +45,8 @@ Richards describes three kinds of time that we can use for language learning (se
 
 There are three key elements in a habit that are shown below: 
 
-```Cue >>> Activity >>> Reward
+```
+Cue >>> Activity >>> Reward
 
 ```
 
