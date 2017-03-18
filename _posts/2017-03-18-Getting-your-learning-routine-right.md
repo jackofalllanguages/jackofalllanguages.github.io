@@ -18,8 +18,9 @@ In this post we are going to look at:
 
 1. Why a good routine is almost more important than the methods we use when learning.
 2. How we can find time for our routine.
-3. How to make this routine *addictive*.
-4. how habit formation works.
+3. How habit formation works
+4. How to make this routine *addictive*.
+
 
 # Why the routine is so important
 
@@ -64,6 +65,19 @@ There are three key elements in a habit that are shown below:
 We can use these to make it more likely that we wil stick to our learning routine by incorporating as many of these as possible into our routine. For example, by joining a community of people learning our TL (on or offline) we can meet the need for belonging. By planning well (link to previous post) we can measure our progress and increase our sense of self improvement. By having a consistent learning routine that we stick to we can consistently do, we can increase the sense of certainty. By occasionally varying the activities that we do, we can meet the need for unpredictability.
 
 A great online community for language learners is the Instagram Language Challenge that is run by [Lindsay does Language](http://www.lindsaydoeslanguages.com/instagram-language-challenge/). You can also look on Google for other online communities that you can join.
+
+# Do this now
+
+Take some time to consider the following questions to help figure out your language learning routine:
+
+1. When you can set aside time for your core study time? How often? For how long? 
+2. Do you have short 1-5 minutes segments during your day that you could use to study? What are these? What could you do that would help you make progress?
+3. Are there things you can do when you are doing chores or during your commute that could help you make progress? What are they?
+4. Are there things you can do to help you relax that will help your language learning too? What are these things?
+4. Is what you have come up with too much? If so trim it down a little. If not then go for it!
+
+
+If you want to join the conversation, you can tweet with the hashtag "#mylanguageroutine" and tell us what your language learning routine is like.
 
 
 Photo: "home work routine" By [woodleywonderworks](http://www.flickr.com/photos/wwworks/4195916777/) -  [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
