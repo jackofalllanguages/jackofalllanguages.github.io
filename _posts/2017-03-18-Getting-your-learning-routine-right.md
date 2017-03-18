@@ -45,11 +45,7 @@ Richards describes three kinds of time that we can use for language learning (se
 
 There are three key elements in a habit that are shown below: 
 
-```
-Cue >>> Activity >>> Reward
-
-```
-
+> Cue >>> Activity >>> Reward
 
 **The cue** is the thing that reminds us to do our new habit. This could be an alarm at a certain time or putting your language learning materials next to your bed or coffee maker so you remember to start learning when you wake up. When we are starting a new habit, it is important to choose a strong cue that is hard to ignore (see [this interview](https://www.magneticmemorymethod.com/joanna-jast-hack-habits/)). This is especially true if the habit we are starting is something that we don't want to do (like exercising). **The activity** is the thing that you want to do. In this case it will be your core study time. **The reward** is something that you gives yourself for completing the activity. It could be as simple as deciding that you won't drink your morning coffee or tea until after you have studied for the day. It could be a piece of chocolate or watching a favorite show. The important thing is that you do something your enjoy after completing the routine. This will help make your brain look forward to doing the activity and help the habit stick.
 
