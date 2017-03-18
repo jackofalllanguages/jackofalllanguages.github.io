@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "T. Fletcher Hardison"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/tfhavitar.jpg 
   bio              : "I do lingusitics, learn languages, and teach English"
   location         : 
   email            :
