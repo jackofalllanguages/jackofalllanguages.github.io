@@ -64,7 +64,7 @@ There are three key elements in a habit that are shown below:
 
 We can use these to make it more likely that we wil stick to our learning routine by incorporating as many of these as possible into our routine. For example, by joining a community of people learning our TL (on or offline) we can meet the need for belonging. By planning well (link to previous post) we can measure our progress and increase our sense of self improvement. By having a consistent learning routine that we stick to we can consistently do, we can increase the sense of certainty. By occasionally varying the activities that we do, we can meet the need for unpredictability.
 
-Joining a language learning community can help you incorporate *connection* and *significance*. It also provides a sense of accountability. A great online community for language learners is the Instagram Language Challenge that is run by [Lindsay does Language](http://www.lindsaydoeslanguages.com/instagram-language-challenge/). You can also look on Google for other online communities that you can join.
+Joining a language learning community can help you incorporate *connection* and *significance*. It also provides a sense of accountability. A great online community for language learners is the Instagram Language Challenge that is run by [Lindsay Williams from Lindsay Does Language](http://www.lindsaydoeslanguages.com/instagram-language-challenge/). You can also look on Google for other online communities that you can join.
 
 # Do this now
 
