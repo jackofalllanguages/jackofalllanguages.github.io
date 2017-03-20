@@ -80,4 +80,8 @@ Take some time to consider the following questions to help figure out your langu
 If you want to join the conversation, you can tweet with the hashtag "#mylanguageroutine" and tell us what your language learning routine is like.
 
 
+# Resources
+
+You can download a free language planning worksheet [here](/assets/LanguageLearningPlanningTool.docx) to help you find a language learning routine that is right for you.
+
 Photo: "home work routine" By [woodleywonderworks](http://www.flickr.com/photos/wwworks/4195916777/) -  [CC BY 2.0](http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
