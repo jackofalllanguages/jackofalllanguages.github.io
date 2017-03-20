@@ -38,9 +38,9 @@ Richards describes three kinds of time that we can use for language learning (se
 
 **Core study time** is time that we dedicate to language learning on a regular basis that forms the foundation of our learning routine. It focused time when we can study without distractions. For you, this time may be in the morning before the demands of your day begin pulling you five different directions at the same time. Maybe it is at night after your kids are in bed and your mind can finally let go of all things it has to think about each day. Maybe it's during your lunch-break. Whatever time you choose, *the important things is that it is time you can consistently use to study without a lot of distractions*. For me, this is early morning, before my wife and children are awake. 
 
-**Dead-time** is time when you cannot focus on learning, but that you can still use for studying. For example, you can study some flashcards while standing in line at the supermarket. Maybe you can listen to an audio course, or a podcast lesson, or some other audio material in your target language during your commute to work. Maybe your can read a Tweet or Facebook post in the bathroom! Maybe you can listen to music in your target language while cooking, folding clothes, or washing dishes. *If you think about your daily life, you can probably find many 1-5 minutes segments that you can use to study a little bit extra.* For me, I tend to listen to podcasts or other audio material in the language I'm learning on my way to work and I try to review flashcards during shot breaks throughout my day like going to the bathroom or waiting in line.
+**Dead-time** is time when you cannot focus on learning, but that you can still use for studying. For example, you can study some flashcards while standing in line at the supermarket. Maybe you can listen to an audio course, or a podcast lesson, or some other audio material in your target language during your commute to work. Maybe your can read a Tweet or Facebook post in the bathroom! Maybe you can listen to music in your target language while cooking, folding clothes, or washing dishes. *If you think about your daily life, you can probably find many 1-5 minutes segments that you can use to study a little bit extra.* For me, I tend to listen to podcasts or other audio material in the language I'm learning on my way to work and I try to review flashcards during short breaks throughout my day like going to the bathroom or waiting in line.
 
-**Downtime** is time that we need to relax. If you like to listen to music or watch TV or movies, can you do that in your target language? How about reading a book or comics? If doing these things in your target language is relaxing, then go for it. This is a great way to get some extra study time. If these things are draining to you, then don't do it. Everyone needs time to rest and recharge. If you try to do too much and don't get the breaks you need, then you can burnout. Keep in mind as you make progress in your language learning, you may find that these activities become more enjoyable and relaxing. So if you find them draining now, they may not be in a few weeks or months.
+**Down-time** is time that we need to relax. If you like to listen to music or watch TV or movies, can you do that in your target language? How about reading a book or comics? If doing these things in your target language is relaxing, then go for it. This is a great way to get some extra study time. If these things are draining to you, then don't do it. Everyone needs time to rest and recharge. If you try to do too much and don't get the breaks you need, then you can burnout. Keep in mind as you make progress in your language learning, you may find that these activities become more enjoyable and relaxing. So if you find them draining now, they may not be in a few weeks or months.
 
 # How habit formation works
 
@@ -57,14 +57,14 @@ There are three key elements in a habit that are shown below:
 
 * Certainty
 * Uncertainty
-* Significant (self worth)
+* Significance (self worth)
 * Connection (with others)
 * Growth (self improvement)
 * Contribution 
 
 We can use these to make it more likely that we wil stick to our learning routine by incorporating as many of these as possible into our routine. For example, by joining a community of people learning our TL (on or offline) we can meet the need for belonging. By planning well (link to previous post) we can measure our progress and increase our sense of self improvement. By having a consistent learning routine that we stick to we can consistently do, we can increase the sense of certainty. By occasionally varying the activities that we do, we can meet the need for unpredictability.
 
-A great online community for language learners is the Instagram Language Challenge that is run by [Lindsay does Language](http://www.lindsaydoeslanguages.com/instagram-language-challenge/). You can also look on Google for other online communities that you can join.
+Joining a language learning community can help you incorporate *connection* and *significance*. It also provides a sense of accountability. A great online community for language learners is the Instagram Language Challenge that is run by [Lindsay does Language](http://www.lindsaydoeslanguages.com/instagram-language-challenge/). You can also look on Google for other online communities that you can join.
 
 # Do this now
 
@@ -74,7 +74,7 @@ Take some time to consider the following questions to help figure out your langu
 2. Do you have short 1-5 minutes segments during your day that you could use to study? What are these? What could you do that would help you make progress?
 3. Are there things you can do when you are doing chores or during your commute that could help you make progress? What are they?
 4. Are there things you can do to help you relax that will help your language learning too? What are these things?
-4. Is what you have come up with too much? If so trim it down a little. If not then go for it!
+5. Is what you have come up with too much? If so trim it down a little. If not then go for it!
 
 
 If you want to join the conversation, you can tweet with the hashtag "#mylanguageroutine" and tell us what your language learning routine is like.
