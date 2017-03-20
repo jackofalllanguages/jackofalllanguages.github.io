@@ -53,7 +53,7 @@ There are three key elements in a habit that are shown below:
 
 # How to make any behavior addictive
 
-[Dr Zoë Chance](https://www.youtube.com/watch?v=AHfiKav9fcQ) describes her experience beimg addicted to a pedometer. She concluds by citing Robinsons's theory of the six basic human needs and that any behavior that meets at least three of them has the potential to be addictive. The six basic needs are as follow (taken from [here](http://changingminds.org/explanations/needs/robbins_needs.htm)):
+[Dr Zoë Chance](https://www.youtube.com/watch?v=AHfiKav9fcQ) describes her experience beimg addicted to a pedometer. She concluds by citing Robinsons' theory of the six basic human needs and that any behavior that meets at least three of them has the potential to be addictive. The six basic needs are as follow (taken from [here](http://changingminds.org/explanations/needs/robbins_needs.htm)):
 
 * Certainty
 * Uncertainty
