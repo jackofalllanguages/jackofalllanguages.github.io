@@ -44,6 +44,12 @@ Another key is having concrete goals. Some people like the idea of SMART goals. 
 If our goals are specific and measurable, then we will know if we are making progress or not. For example, "I want to be able to read French literature" is not specific, realistic, or measurable. French literature is a huge field and would require understanding a massive number of words and grammar. It is not measurable because we don't really know if we have reached this goals. How many books to we need to read before we have accomplished it? "I want to read Harry Potter in French" is a much better goals. It is specific (Harry Potter vs. French literature), measurable (one book), and it is probably realistic too if we are at least intermediate French level. If our level is still low, then we should try a simpler book. After we accomplish the simpler goal, we can move onto something more complex. 
 
 
+# How much to plan
+
+It is important to have a clear final goal. What do you want to be able to do with the language you are learning? Once you are clear about your final goal. How much other planning should you do? In reality that is up to you. I recommend that you try to make SMART monthly goals. Try to plan one month at a time. I feel like a month is long enough that you can work on something and make progress, but it is not too long that it is difficult to make a plan. Planning an entire year of language learning goals would take a lot of time and your goals and needs would probably change after a few months. So try to evaluate your current level and how much progress you have made each month and then make a plan for the next month.
+
+
+
 # Pulling it all together: an example
 
 My current goal for Dutch:
@@ -67,6 +73,10 @@ now that your goal and the skills you need are clear, what can you do to make pr
 
 Congratulations, you now have a solid language learning plan that is Integrated into your life goals but is specific enough to help you know what you need to do today to make progress.
 
+
+# Resources
+
+You can download a free language planning worksheet [here](/assets/LanguageLearningPlanningTool.docx) to help you start your language learning planning so you can have clear goals that is right for you.
 
 
 
