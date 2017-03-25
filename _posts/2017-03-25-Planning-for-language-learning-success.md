@@ -79,5 +79,3 @@ Congratulations, you now have a solid language learning plan that is Integrated 
 You can download a free language planning worksheet [here](/assets/LanguageLearningPlanningTool.docx) to help you start your language learning planning so you can have clear goals that is right for you.
 
 
-
- P.S. I you want personal coaching to develop a learning plan and start carrying it out, contact me through the [contact page](url here) to schedule your personal coaching session today
