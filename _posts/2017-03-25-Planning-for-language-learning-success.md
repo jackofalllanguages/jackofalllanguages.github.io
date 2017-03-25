@@ -5,7 +5,7 @@ excerpt: Having a clear language learning plan is key to staying motivated and b
 categories: theory strategy
 ---
 
-![](/assets/computer-planner.jpg){: .align-center}
+![](/assets/computer-planner.jpeg){: .align-center}
 
 
 One thing needs to be clear, languages are hard. They are full of exceptions and people use them in creative and unique ways. This is their beauty, but it is also maddening for us language learners. This means that we are going to have trouble sometimes. We may take one step forward and two steps backwards. Let's be clear that this will happen and accept it. Then when it happens we won't be surprised and lose heart.
