@@ -6,6 +6,8 @@ category: resources tools
 ---
 
 
+![](/assets/micHeadphones.jpeg){: .align-center}
+
 [RhinoSpike.com](https://rhinospike.com/home/) is a great resource for language learners. Like language exchanges, it is a system where you can help others and get the help you need. On this site, you can ask that a native speaker reads a text and records an audio file or you can ask a native speaker to transcribe an audio file or video. Both are very helpful for learning pronunciation and training your listening skills.
 
 Olly Richards has said that having the transcription of a video or audio is very helpful for developing listening skills. I agree because when we read and listen at the same time, our brain already knows what words to expect and so can relax and focus on hearing the sounds and learning to hear native rhythm rather than being stressed out trying to identify the words while doing all the other things. It also makes it easier for us to learn new vocabulary from our listening practice because if we don't know a word, we can find it in the transcript and the look it up. If we didn't have a recording, then we would have to guess the spelling. This could be quite difficult in languages like, English and Chinese where the sounds do not correspond well to the written form of the word.
