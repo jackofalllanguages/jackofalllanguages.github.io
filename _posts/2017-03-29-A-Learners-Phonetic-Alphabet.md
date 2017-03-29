@@ -20,18 +20,19 @@ Because of these difficulties, I propose the Learners Phonetic Alphabet (LPA)  a
 
 |LPA Symbol| IPA Symbol | English spelling| LPA transcription| 
 |:-|:-|:-|:-|
-|aa|a|father| ['faadher]|
-|a|æ| cat |['kat]|
-|ii|i|beat|['biit]|
-|i|ɪ|bit|['bit]|
-|ee|e|bait|['beet]|
-|e|ɛ|bet|['bet]|
-|uu|u|boot|['buut]|
-|u|ʊ|but|['but]|
-|oo|o|boat|['boot]|
-|o|ɔ|bought|['bot]|
-|uh|ʌ/ə|but|['buht]|
-|er|ɜ|buhtter|['buhter]|
+|aa|a|father| ['f**aa**dher]|
+|a|æ| cat |['k**a**t]|
+|ii|i|beat|['b**ii**t]|
+|i|ɪ|bit|['b**i**t]|
+|ee|e|bait|['b**ee**t]|
+|e|ɛ|bet|['b**e**t]|
+|uu|u|boot|['b**uu**t]|
+|u|ʊ|but|['b**u**t]|
+|oo|o|boat|['b**oo**t]|
+|o|ɔ|bought|['b**o**t]|
+|uh|ʌ/ə|but|['b**uh**t]|
+|er|ɜ|butter|['buht**er**]|
+|ih| ɨ||roses|['rooz**ih**z]|
 
 This is designed to make things eaier for English learners. The vowels /a/, /e/,/i/, /o/, /u/ are often called long vowels in English instructional materials as such they are transcribed by doubling the character. Thus the symbol is longer and hopefully easier for learners to remember. The vowels /æ/, /ɪ/, /ɛ/, /ʊ/, /ɔ/ are often called short vowels and thus are written only once to make it easier for learners to remember.
 
@@ -40,32 +41,33 @@ The folowing table is the LPA for the consontants. Note that the symbols ^ is us
 
 |LPA Symbol| IPA Symbol | English spelling| LPA transcription| 
 |:-|:-|:-|:-|
-|^|ʰ|not written| p^at
-|p|p|pat|['p^at]|
-|b|b|boat|['boot]|
-|t|t|top| ['t^aap]|
-|d|d|data|['deetaa]|
-|k| k| cat| ['k^at]|
-|g| g| get| ['git]|
-|m| m| man| ['men]| 
-|n|n| neck| ['nek]|
-|ng|ŋ| sing| ['sing]|
-|f| f| feather| ['fedher]|
-|v| v| vote| ['voot]|
-|th| θ| thin|['thin]|
-|dh|ð|this |['dhis]|
-|s|s|sit| ['sit]| 
-|z|z|zipper| ['ziper]|
-|sh|ʃ|ship|['ship]|
-|zh|ʒ|genre|['zhaanruh]|
-|c|tʃ| chip|['cip]|
-|j| dʒ|jump|['juhmp]|
-|y|j|yes|['yes]|
-|w|w|water|['water]|
-|r|ɹ|red|['red]|
-|l|l|lip|['lip]|
-|h|h|happy|['hapii]|
-|?|ʔ|uh oh|['uh?oow]|
+|^|ʰ|not written| p**^**at
+|p|p|pat|['**p**^at]|
+|b|b|boat|['**b**oot]|
+|t|t|top| ['**t**^aap]|
+|d|d|data|['**d**eetaa]|
+|k| k| cat| ['**k**^at]|
+|g| g| get| ['**g**it]|
+|m| m| man| ['**m**en]| 
+|n|n| neck| ['**n**ek]|
+|ng|ŋ| sing| ['**s**ing]|
+|f| f| feather| ['**f**edher]|
+|v| v| vote| ['**v**oot]|
+|th| θ| thin|['**th**in]|
+|dh|ð|this |['**dh**is]|
+|s|s|sit| ['**s**it]| 
+|z|z|zipper| ['**z**iper]|
+|sh|ʃ|ship|['**sh**ip]|
+|zh|ʒ|genre|['**zh**aanruh]|
+|c|tʃ| chip|['**c**ip]|
+|j|dʒ|jump|['**j**uhmp]|
+|y|j|yes|['**y**es]|
+|w|w|water|['**w**ater]|
+|r|ɹ|red|['**r**ed]|
+|l|l|lip|['**l**ip]|
+|L|ʟ|milk|['**m**iLk]|
+|h|h|happy|['**h**apii]|
+|?|ʔ|uh oh|['uh**?**oow]|
 
 Most of the transcriptions are very similar to their orthographic form so this system would not be hard for English learners to learn. There are two kinds of stress that are important for language learning: word stress and sentences stress. Word stress is the emphasis places on a certain sylable in word. This syllables is usuallyl pronounced with a higher pitch, louder, and longer than other syllables in the word. In some language (including English) word stress can be the differences between words for example *progress* can be a noun or a verb depending in where the stress is placed: proGRESS (verb) and PROgress (noun). As shown in the table below, stress can be marked with a single quote make before the stressed syllable. For longer words, there may be another stressed syllable that is not as loud, etc, as the primary stressed syllable. This secondary word stress can be marked with a comma before the stressed syllable. 
 
@@ -73,9 +75,9 @@ In languages like English, stress is also important on the sentence level. Often
 
 |||||
 |:-|:-|:-|:-|
-|Primary word stress|'|progress (V)|[pruh'gres]|
-|Secondary word stress|,| independance|,indi'pendins|
-|Sentence stress|%|He gave me the book|%'hii 'geev 'mii 'dhuh %'buk|
+|Primary word stress|'|progress (V)|[pruh**'**gres]|
+|Secondary word stress|,| independance|**,**indi'pendins|
+|Sentence stress|%|He gave me the book|**%**'hii 'geev 'mii 'dhuh **%**'buk|
 
 Thus the verb *progress* would be transcribed as [pruh'gres] and the noun would be ['praagres].
 
@@ -86,13 +88,13 @@ For learners of other languages the system can be externded. The the basic Engli
 
 |LPA Symbol single symbol|LPA digraph|  IPA Symbol | Language| Meaning| Orthographic spelling|LPA transcription|
 |:-|:-|:-|:-|:-|:-|:-|
-|:||ː| Arabic| holiday, promise| عِدّ‎ , عِيد|['/ii:d], ['/iid] |
-|&|uh|ə/ʌ|English||butter|b&ter| 
-|Y|iu|y|Dutch| expensive| duur| [dYr]/[diur]|
-|2|eu|ø|Dutch| door|deur|[d2r]/[deur]|
-|9|oe|œ|Dutch|house|huis|[h9Ys]/[hoeius]|
-|M|ui|ɯ|Korean|Subject Marker|는| [nMn]/[nuin]|
-|1| ih| ɨ|English||Roses|[rooz1z]/[roozihz]|
+|:||ː| Arabic| holiday, promise| عِدّ‎ , عِيد|['/ii**:**d], ['/iid] |
+|&|uh|ə/ʌ|English||butter|b**&**ter| 
+|Y|iu|y|Dutch| expensive| duur| [d**Y**r]/[d**iu**r]|
+|2|eu|ø|Dutch| door|deur|[d**2**r]/[d**eu**r]|
+|9|oe|œ|Dutch|house|huis|[h**9**Ys]/[h**oe**ius]|
+|M|ui|ɯ|Korean|Subject Marker|는| [n**M**n]/[n**ui**n]|
+
 
 The following table shows examples for non-English consonants and non-phnemic English consonants.
 
@@ -100,18 +102,17 @@ The following table shows examples for non-English consonants and non-phnemic En
 |:-|:-|:-|:-|:-|:-|:-|
 |B|bv|β|Spanish | | |
 |P|pf|ɸ|Spanish| | | |
-| |rr|r| Spanish| dog|perro| ['perroo]|
-|!||ɾ|Spanish|but| pero|['pe!o]|
-|L||ʟ|English||milk|['miLk]|
-|x||x|German|I|ich|['ix]|
-|G|gg|ɣ|Dutch|go|gaan|['Gaan]/ ['ggaan]|
-|X||χ| Northern Dutch|eight| acht |['aaXt] |
-|͏R||ʁ|French|route|roue|['Ruu]|
-||ny|ɲ|French|prision|ngouf|nyuuf|
-|H| |ħ|Arabic| situation | حال| ['Haal]|
-|\|?? |ʕ|Arabic|holliday|عِيد‎ |[\iiːd]|
-|C||ɕ|Korean|poem |시|['Ci]|
-|J||ʑ|Japanese||火事|['kaaJi]|
+| |rr|r| Spanish| dog|perro| ['pe**rr**oo]|
+|!||ɾ|Spanish|but| pero|['pe**!**o]|
+|x||x|German|I|ich|['i**x**]|
+|G|gg|ɣ|Dutch|go|gaan|['**G**aan]/ ['**gg**aan]|
+|X||χ| Northern Dutch|eight| acht |['aa**X**t] |
+|͏R||ʁ|French|route|roue|['**R**uu]|
+||ny|ɲ|French|prision|ngouf|**ny**uuf|
+|H| |ħ|Arabic| situation | حال| ['**H**aal]|
+|\|?? |ʕ|Arabic|holliday|عِيد‎ |[**\**iiːd]|
+|C||ɕ|Korean|poem |시|['**C**i]|
+|J||ʑ|Japanese||火事|['kaa**J**i]|
 
 
 The system is certainly incomplete and does not cover every sound that is found in the IPA. It is primary disigned for English lanuage learner, but could easly be used for learning other languages that have similar sounds such as German, Spanish, and French (using some of the additional symbols shown above).
