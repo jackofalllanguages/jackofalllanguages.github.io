@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: English is not phonetic and the International Phonetic Alphabet is hard to learn and hard for language learners to type. Here is an alternative for language learners\: the Learners Phonetic Alphabet.
+excerpt: English is not phonetic and the International Phonetic Alphabet is hard to learn and hard for language learners to type. Here is an alternative for language learners - the Learners Phonetic Alphabet.
 categories: english resources
 ---
 
