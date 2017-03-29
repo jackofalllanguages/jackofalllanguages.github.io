@@ -36,12 +36,13 @@ Because of these difficulties, I propose the Learners Phonetic Alphabet (LPA)  a
 
 This is designed to make things eaier for English learners. The vowels /a/, /e/,/i/, /o/, /u/ are often called long vowels in English instructional materials as such they are transcribed by doubling the character. Thus the symbol is longer and hopefully easier for learners to remember. The vowels /æ/, /ɪ/, /ɛ/, /ʊ/, /ɔ/ are often called short vowels and thus are written only once to make it easier for learners to remember.
 
-The folowing table is the LPA for the consontants. Note that the symbols ^ is used for aspiration which is an extra puff of air that is often added to sounnds like [p], [t], and [k] at the beginning of English words.
+The folowing table is the LPA for the consontants. Note that the symbols ^ is used for aspiration which is an extra puff of air that is often added to sounnds like [p], [t], and [k] at the beginning of English words. The symbol \` means that a sound is unreleased; this means that it is cut off and there is not puff or air or other sound following it.
 
 
 |LPA Symbol| IPA Symbol | English spelling| LPA transcription| 
 |:-|:-|:-|:-|
-|^|ʰ|not written| p**^**at
+|^|ʰ|not written| p**^**at|
+|\`|̚|not written| pat**\`**| 
 |p|p|pat|['**p**^at]|
 |b|b|boat|['**b**oot]|
 |t|t|top| ['**t**^aap]|
