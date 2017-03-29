@@ -2,13 +2,13 @@
 layout: single
 author_profile: false
 excerpt: English is not phonetic and the International Phonetic Alphabet is hard to learn and hard for language learners to type. Here is an alternative for language learners - the Learners Phonetic Alphabet.
-categories: english resources
+categories: english resources pronunciation
 ---
 
 
-The International Phonetic Alphabet (IPA) on one of the most valuable language learning tools. But it's too complicated for most language learners. However, we still need a method to write pronunciation that is easy to use and easy to remember. This is a proposal.
+![](/assets/phoneticAlphabet.png){: .align-center}
 
-![](/assets/phoneticAlphabet.png)
+The International Phonetic Alphabet (IPA) on one of the most valuable language learning tools. But it's too complicated for most language learners. However, we still need a method to write pronunciation that is easy to use and easy to remember. This is a proposal.
 
 
 
