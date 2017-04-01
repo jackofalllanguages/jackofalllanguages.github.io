@@ -27,14 +27,14 @@ Because of these difficulties, I propose the Learners Phonetic Alphabet (LPA)  a
 |ee|e|bait|['b**ee**t]|
 |e|ɛ|bet|['b**e**t]|
 |uu|u|boot|['b**uu**t]|
-|u|ʊ|but|['b**u**t]|
+|u|ʊ|put|['p**u**t]|
 |oo|o|boat|['b**oo**t]|
 |o|ɔ|bought|['b**o**t]|
 |uh|ʌ/ə|but|['b**uh**t]|
 |er|ɜ|butter|['buht**er**]|
 |ih| ɨ||roses|['rooz**ih**z]|
 
-This is designed to make things eaier for English learners. The vowels /a/, /e/,/i/, /o/, /u/ are often called long vowels in English instructional materials as such they are transcribed by doubling the character. Thus the symbol is longer and hopefully easier for learners to remember. The vowels /æ/, /ɪ/, /ɛ/, /ʊ/, /ɔ/ are often called short vowels and thus are written only once to make it easier for learners to remember.
+This is designed to make things easier for English learners. The vowels /a/, /e/, /i/, /o/, /u/ are often called long vowels in English instructional materials as such they are transcribed by doubling the character. Thus the symbol is longer and hopefully easier for learners to remember. The vowels /æ/, /ɪ/, /ɛ/, /ʊ/, /ɔ/ are often called short vowels and thus are written only once to make it easier for learners to remember.
 
 The folowing table is the LPA for the consontants. Note that the symbols ^ is used for aspiration which is an extra puff of air that is often added to sounnds like [p], [t], and [k] at the beginning of English words. The symbol \` means that a sound is unreleased; this means that it is cut off and there is not puff or air or other sound following it.
 
